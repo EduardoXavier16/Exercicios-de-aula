@@ -1,0 +1,23 @@
+{
+  "name": "exercicios-de-aula",
+  "version": "1.0.0",
+  "description": "Repositório destinado aos exercícios realizados durante as aulas!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoXavier16/Exercicios-de-aula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoXavier16/Exercicios-de-aula/issues"
+  },
+  "homepage": "https://github.com/EduardoXavier16/Exercicios-de-aula#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
